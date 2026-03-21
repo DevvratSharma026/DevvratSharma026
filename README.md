@@ -1,5 +1,4 @@
 # 💫 About Me:
-## 💫 About Me:
 🔥 I build cinematic, animated websites using AI-assisted development  
 🚀 Currently open to freelance projects & full-time roles  
 ⚡ MERN Stack · React · GSAP · Framer Motion · Three.js  
