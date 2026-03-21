@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently working on a AI code review web app<br>I'm looking for new opportunites new job or internships<br>I've experience in MERN stack<br>I am a fresher in tech world looking for some advanture in co-op world now.
+## 💫 About Me:
+🔥 I build cinematic, animated websites using AI-assisted development  
+🚀 Currently open to freelance projects & full-time roles  
+⚡ MERN Stack · React · GSAP · Framer Motion · Three.js  
+🤖 AWS GenAI & IBM Certified  
+📍 Delhi, India
 
 
 ## 🌐 Socials:
