@@ -1,9 +1,8 @@
 # 💫 About Me:
-🔥 I build cinematic, animated websites using AI-assisted development  
-🚀 Currently open to freelance projects & full-time roles  
-⚡ MERN Stack · React · GSAP · Framer Motion · Three.js  
+🔥Currently Deployed in IBM as Associate System Engineer
+⚡ MERN Stack · GenAI · Oracle Cloud Middleware 
 🤖 AWS GenAI & IBM Certified  
-📍 Delhi, India
+📍 Bangalore, India
 
 
 ## 🌐 Socials:
