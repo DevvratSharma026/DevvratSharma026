@@ -1,7 +1,6 @@
 # 💫 About Me:
-🔥Currently Deployed in IBM as Associate System Engineer
-⚡ MERN Stack · GenAI · Oracle Cloud Middleware 
-🤖 AWS GenAI & IBM Certified  
+🔥Currently Deployed in IBM as Associate System Engineer, working with Oracle Cloud Middlewares
+
 📍 Bangalore, India
 
 
